@@ -1,0 +1,12 @@
+name: "RMarkdownFile"
+output_dir: "docs"
+navbar:
+  title: "WeeklyChanges"
+  left:
+  - text: "HopefullyThisWorks"
+   href: index.html
+  - text: "Speed and Distance"
+   href: speed-and-distance.html
+output:
+  html_document:
+ theme: cosmo
