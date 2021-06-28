@@ -5,8 +5,8 @@ navbar:
   left:
   - text: "HopefullyThisWorks"
    href: index.html
-  - text: "Speed and Distance"
-   href: speed-and-distance.html
+  - text: "Weekly Changes"
+   href: WeeklyChangesMarkdownV2GitHubEdition.html
 output:
   html_document:
  theme: cosmo
