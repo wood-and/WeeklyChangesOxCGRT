@@ -5,8 +5,16 @@ navbar:
   left:
   - text: "HopefullyThisWorks"
    href: index.html
-  - text: "Weekly Changes"
-   href: WeeklyChangesMarkdownV2GitHubEdition.html
+output:
+  html_document:
+ theme: cosmo
+name: "WeeklyChange"
+output_dir: "docs"
+navbar:
+  title: "Weekly Changes To OxCGRT Database"
+  left:
+  - text: "Irrelevant"
+  href: WeeklyChangesMarkdownV2GitHubEdition.html
 output:
   html_document:
  theme: cosmo
